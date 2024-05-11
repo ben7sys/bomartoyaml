@@ -1,10 +1,15 @@
+Mail
 https://mail.google.com/
 https://webmail.vivaldi.net
 https://proton.me
+
+Google
 https://www.google.de
 https://accounts.google.com/
 https://maps.google.com
 https://translate.google.com
+
+Dienste
 https://www.deepl.com/de/translator-mobile
 https://youtube.com/
 https://youtubetranscript.com

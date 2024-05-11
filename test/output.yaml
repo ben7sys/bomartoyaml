@@ -1,0 +1,16 @@
+- Default:
+  - YouTube:
+      abbr: Y
+      description: "Auf YouTube findest du die angesagtesten Videos und Tracks. Au\xDF\
+        erdem kannst du eigene Inhalte hochladen und mit Freunden oder gleich der\
+        \ ganzen Welt teilen."
+      href: https://youtube.com/
+      icon: icon.png
+- Default:
+  - Twitch:
+      abbr: T
+      description: "Twitch is an interactive livestreaming service for content spanning\
+        \ gaming, entertainment, sports, music, and more. There\u2019s something for\
+        \ everyone on Twitch."
+      href: https://www.twitch.tv
+      icon: icon.png
