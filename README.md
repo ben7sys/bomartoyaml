@@ -25,13 +25,14 @@ Hauptkategorie:
     href: URL
     icon: icon.png
 
+```xml
 hauptkategorie  # Die Kategorie kann Default sein könnte von ChatGPT gefüllt werden
 titel           # Der Titel wird aus der URL und oder dem Titel der Webseite extrahiert
 abbr            # Die Abkürzung kann aus den Anfangsbuchstaben des Namens oder der URL bestehen
 description     # Wenn in der Datei keine Daten verfügbar könnte ChatGPT die Beschreibung erzeugen
 icon            # Das Icon kommt entweder von simpleicons.org oder es könnte von ChatGPT erzeugt werden
 href            # Das ist die URL die zum Ziel führt
-
+```
 
 **Beispiel bookmark.yaml:**
 ```yaml
